@@ -13,3 +13,5 @@ Leetcode题目 | 语言 | 类别
 
 ## 算法知识积累
 [一、面试常考的算法题](https://github.com/happyhk/Leetcode/blob/master/Document/%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%80%83%E7%AE%97%E6%B3%95%E9%A2%98.md)<br>
+## 面试常考知识积累
+[一、面试经典问题](https://github.com/happyhk/Leetcode/blob/master/Document/%E7%BB%8F%E5%85%B8%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95.md)<br>

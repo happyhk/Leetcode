@@ -11,6 +11,7 @@ Leetcode题目 | 语言 | 类别
 爬楼梯 | [C++](https://github.com/happyhk/Leetcode/blob/master/Leetcode(c%2B%2B)/code/70.%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) | 
 
 常见的算法题 | 语言 | 类别
+-|-|-
 快速排序| [C++](https://github.com/happyhk/Leetcode/blob/master/Leetcode(c%2B%2B)/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F%EF%BC%88C%2B%2B%EF%BC%89.md)| 排序算法
 
 

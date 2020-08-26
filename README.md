@@ -1,4 +1,29 @@
 # Leetcode刷题笔记
+剑指offer | code | 视频讲解
+-|-|-
+剑指offer-3、数组中重复的数字|[讲解](https://www.bilibili.com/video/BV1mi4y147RB)
+剑指offer-4、二维数组中的查找|[讲解](https://www.bilibili.com/video/BV1nK4y1t7mx)
+剑指offer-5、替换空格|[讲解](https://www.bilibili.com/video/BV1Bp4y1Q7HF)
+剑指offer-6、从尾到头打印链表|[讲解](https://www.bilibili.com/video/BV1CZ4y1p7rW)
+剑指offer-7、重建二叉树|[讲解](https://www.bilibili.com/video/BV1gg4y1B7SP)
+剑指offer-9、用两个栈实现队列|[讲解](https://www.bilibili.com/video/BV1HZ4y1p7wq)
+剑指offer-10-1、斐波那契数列|[讲解](https://www.bilibili.com/video/BV1a5411s7V6)
+剑指offer-10-2、青蛙跳台阶|[讲解](https://www.bilibili.com/video/BV1gg4y1B7hm)
+剑指offer-11、旋转数组的最小数字|[讲解](https://www.bilibili.com/video/BV1Kg4y1B7Hd)
+剑指offer-12、矩阵中的路径|[讲解](https://www.bilibili.com/video/BV1Pg4y1B7XH)
+剑指offer-13、机器人的运动范围|[讲解](https://www.bilibili.com/video/BV1B5411s7tF)
+剑指offer-14-1、剪绳子|[讲解](https://www.bilibili.com/video/BV1SV411C7MC)
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+剑指offer-7、重建二叉树|[讲解]()
+
+
+
 Leetcode题目 | 语言 | 类别
 -|-|-
 两节点的最长路径| [C++](https://github.com/happyhk/Leetcode/blob/master/Leetcode(c%2B%2B)/Diameter%20of%20Binary%20Tree%20(Easy).md)|树

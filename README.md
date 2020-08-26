@@ -1,5 +1,5 @@
 # Leetcode刷题笔记
-剑指offer | code | 视频讲解
+剑指offer | 视频讲解 | code
 -|-|-
 剑指offer-3、数组中重复的数字|[讲解](https://www.bilibili.com/video/BV1mi4y147RB)
 剑指offer-4、二维数组中的查找|[讲解](https://www.bilibili.com/video/BV1nK4y1t7mx)
@@ -13,15 +13,13 @@
 剑指offer-12、矩阵中的路径|[讲解](https://www.bilibili.com/video/BV1Pg4y1B7XH)
 剑指offer-13、机器人的运动范围|[讲解](https://www.bilibili.com/video/BV1B5411s7tF)
 剑指offer-14-1、剪绳子|[讲解](https://www.bilibili.com/video/BV1SV411C7MC)
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-剑指offer-7、重建二叉树|[讲解]()
-
+剑指offer-14-2、剪绳子2|[讲解](https://www.bilibili.com/video/BV1454y1D7ix)
+剑指offer-15、二进制中1的个数|[讲解](https://www.bilibili.com/video/BV1g5411Y7Pa)
+剑指offer-16、数值的整数次方|[讲解](https://www.bilibili.com/video/BV1VK411H7QZ)
+剑指offer-17、打印从1到最大的n位数|[讲解](https://www.bilibili.com/video/BV11A411i7V2)
+<br>
+<br>
+<br>
 
 
 Leetcode题目 | 语言 | 类别
